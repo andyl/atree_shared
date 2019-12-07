@@ -3,6 +3,8 @@
 /deps/
 /doc/
 /.fetch
+/.elixir_ls
+/.elixir_ls/
 erl_crash.dump
 *.ez
 atree_shared-*.tar
