@@ -1,0 +1,11 @@
+%{
+  "decimal": {:hex, :decimal, "1.8.0", "ca462e0d885f09a1c5a342dbd7c1dcf27ea63548c65a65e67334f4b61803822e", [:mix], [], "hexpm"},
+  "earmark": {:hex, :earmark, "1.4.3", "364ca2e9710f6bff494117dbbd53880d84bebb692dafc3a78eb50aa3183f2bfd", [:mix], [], "hexpm"},
+  "ecto": {:hex, :ecto, "3.2.5", "76c864b77948a479e18e69cc1d0f0f4ee7cced1148ffe6a093ff91eba644f0b5", [:mix], [{:decimal, "~> 1.6", [hex: :decimal, repo: "hexpm", optional: false]}, {:jason, "~> 1.0", [hex: :jason, repo: "hexpm", optional: true]}], "hexpm"},
+  "git_cli": {:hex, :git_cli, "0.3.0", "a5422f9b95c99483385b976f5d43f7e8233283a47cda13533d7c16131cb14df5", [:mix], [], "hexpm"},
+  "jason": {:hex, :jason, "1.1.2", "b03dedea67a99223a2eaf9f1264ce37154564de899fd3d8b9a21b1a6fd64afe7", [:mix], [{:decimal, "~> 1.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm"},
+  "rambo": {:hex, :rambo, "0.2.2", "0f48f23c21674b0138b24aa30a3567e54a87d94552051b4a5de6d7137270a381", [:mix], [], "hexpm"},
+  "version_tasks": {:hex, :version_tasks, "0.11.3", "b44c4d99f6af76f69b45e36fec87646f6036d362c0902d04e035889a5f280241", [:mix], [{:git_cli, "~> 0.2", [hex: :git_cli, repo: "hexpm", optional: false]}], "hexpm"},
+  "yamerl": {:hex, :yamerl, "0.7.0", "e51dba652dce74c20a88294130b48051ebbbb0be7d76f22de064f0f3ccf0aaf5", [:rebar3], [], "hexpm"},
+  "yaml_elixir": {:hex, :yaml_elixir, "2.4.0", "2f444abc3c994c902851fde56b6a9cb82895c291c05a0490a289035c2e62ae71", [:mix], [{:yamerl, "~> 0.7", [hex: :yamerl, repo: "hexpm", optional: false]}], "hexpm"},
+}
